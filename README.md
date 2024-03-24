@@ -1,4 +1,4 @@
-The objective of this project was to build a model from the labeled data and predict the class instances of the prepared model for the unlabeled data. 
+The objective of this project was to build a model from the labeled data and predict the class instances of the prepared model for the unlabeled data.
 **Data Description**
 Two datasets labeled and unlabeled data was given. Both the dataset contains binary and numerical attributes. Column y is the class attribute (three classes).
 The index column is used to order the data and not be used in the model. Missing data are indicated with blank cells and will have to be dropped by using df=df.dropna().
